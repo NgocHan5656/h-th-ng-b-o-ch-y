@@ -1,4 +1,4 @@
-# Tiểu luận môn Lập trình IoT:XÂY DỰNG HỆ THỐNG BÁO CHÁY PLATFORM TRIỂN KHAI TRÊN NỀN TẢNG MAGISTRALA
+# Tiểu luận môn Công Nghệ IoT:XÂY DỰNG HỆ THỐNG BÁO CHÁY PLATFORM TRIỂN KHAI TRÊN NỀN TẢNG MAGISTRALA
 # Các thành viên làm tiểu luận:
 Lê Đỗ Huyền Trân - 23050055
 Võ Ngọc Hân – 23050056  
