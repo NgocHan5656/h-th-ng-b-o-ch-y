@@ -13,6 +13,8 @@ Mở CMD, Git Bash, hoặc Terminal tại thư mục này.
 # Bước 2: Build và chạy Docker Compose
 Gõ lệnh sau để build các container, image, và volume trong Docker:
 docker compose -f "docker-compose.yml" up -d --build
+![image](https://github.com/user-attachments/assets/9a2a93d7-20be-4a46-8081-0408e9f5ae85)
+
 # Bước 3: Khôi phục dữ liệu cho các volume
 docker run --rm -v docker_magistralalabs-mqtt-broker-volume:/volume -v /d/backups:/backup alpine sh -c "tar -xzvf /backup/docker_magistralalabs-mqtt-broker-volume.tar.gz -C /volume" docker run --rm -v docker_magistrala_data:/volume -v /d/backups:/backup alpine sh -c "tar -xzvf /backup/docker_magistrala_data.tar.gz -C /volume" nhớ copy thư mục backups đem vào ổ d
 # Bước 4: Build và chạy Docker Compose
