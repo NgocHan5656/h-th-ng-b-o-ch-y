@@ -3,7 +3,11 @@ PLATFORM
 TRIỂN KHAI TRÊN NỀN TẢNG MAGISTRALA
 
 Các thành viên làm tiểu luận:
+
+
 Lê Đỗ Huyền Trân - 23050055
+
+
 Võ Ngọc Hân – 23050056  
 
 Hướng dẫn sử dụng:
